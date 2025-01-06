@@ -1,3 +1,5 @@
+# Original code from: https://github.com/syf0122/brain_state_pred
+
 import os
 import glob
 import matplotlib.pyplot as plt # plotting library
