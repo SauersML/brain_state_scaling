@@ -1,3 +1,5 @@
+# Original code from: https://github.com/syf0122/brain_state_pred
+
 # Model adapted from the following link
 # https://towardsdatascience.com/how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e
 # for the following paper
